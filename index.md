@@ -25,9 +25,9 @@
 Campus-Blogger. <p>
   
  
- ## Certificates :
+## Certificates :
  
- ---
+
  
  <p><b>1. Software Engineering Virtual Experience By
        JPMorgan Chase & Co.</b><br><br>
