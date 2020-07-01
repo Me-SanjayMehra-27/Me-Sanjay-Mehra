@@ -4,20 +4,14 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <p><b> Email - me.sanjaykumar27@gmail.com
   </b> </p>
-  <br><br>
-  <h5> Certificates - </h5>
-  <br> <b>1. Software Engineering Virtual Experience By 
-           JPMorgan Chase & Co. </b>
-  <br> <b>2. The Fundamentals Of Digital Marketing By 
-           Google Digital Garage. </b>
- 
+  
   <br><br>
   <a href="https://www.linkedin.com/in/sanjay-mehra-835816152/"> - LinkedIn Profile </a>
   <br><br>
   <a href="https://www.hackerrank.com/mehra271198"> - HackerRank Profile </a>
   <br><br>
   <a href="https://github.com/Me-SanjayMehra-27"> - GitHub Profile </a>
-   <br><br>
+  <br><br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
