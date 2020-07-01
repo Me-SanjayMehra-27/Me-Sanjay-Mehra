@@ -22,11 +22,13 @@
 
 ### Discription :
 <p> In many colleges(Tier 3 Or 4), Many students have Their Problems in writing Blogs and Content writing And They could't share their skills or Knowledge Because Lack Of Confidence.So basically I am Trying To Solve This Problem In My Way. And I Want To Give Them A Platform :-
-Campus-Blogger. <p><br><br>
+Campus-Blogger. <p>
   
+ 
  ## Certificates :
  
  ---
+ 
  <p><b>1. Software Engineering Virtual Experience By
        JPMorgan Chase & Co.</b><br><br>
  <b>2. The Fundamentals Of Digital Marketing By
