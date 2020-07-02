@@ -25,11 +25,8 @@
 Campus-Blogger. <p>
   
 ---
-
 ## Certificates :
- 
-
- 
+---
 <p><b>1. Software Engineering Virtual Experience By
        JPMorgan Chase & Co.</b><br><br>
  <b>2. The Fundamentals Of Digital Marketing By
