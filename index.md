@@ -12,7 +12,7 @@
 ---
 
 ### Technology :
-<p> Java(OOPs), JSP, Servlet, Bootstrap 4, Html 5, CSS 3, JavaScript, SQL. </p>
+<p> Java(OOPs), JSP, Servlet, JDBC, Bootstrap 4, Html 5, CSS 3, JavaScript, SQL. </p>
 <br><br>
 
 ### Tools :
@@ -21,9 +21,11 @@
 <br><br>
 
 ### Discription :
-<p> In many colleges(Tier 3 Or 4), Many students have Their Problems in writing Blogs and Content writing And They could't share their skills or Knowledge Because Lack Of Confidence.So basically I am Trying To Solve This Problem In My Way. And I Want To Give Them A Platform :-
+<p> In many colleges(Tier 3 Or 4), many students have face some problems in writing blogs and content writing and 
+They couldn't share their skills or knowledge because lack of confidence.So basically  I am trying to solve this 
+problem in my own way.And i want to give them a Platform :-
 Campus-Blogger. <p>
- <br>
+<br>
   
 <h2><b> Certificates : </b></h2>
 
