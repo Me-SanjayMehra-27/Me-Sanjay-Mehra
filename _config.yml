@@ -2,15 +2,16 @@ title: SANJAY KUMAR # your name (or website title) here
 logo: "/images/instasize_190410160202.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-  <p><b> Email - me.sanjaykumar27@gmail.com
+  <p><b> Email - 
+   <a href="me.sanjaykumar27@gmail.com"> - me.sanjaykumar27@gmail.com </a>
   </b> </p>
   
   <br><br>
-  <a href="https://www.linkedin.com/in/mesanjaymehra"> - LinkedIn Profile </a>
+  <a href="https://www.linkedin.com/in/sanjaymehra27"> - LinkedIn Profile </a>
   <br><br>
-  <a href="https://www.hackerrank.com/mehra271198"> - HackerRank Profile </a>
+  <a href="https://www.hackerrank.com/sanjaymehra27"> - HackerRank Profile </a>
   <br><br>
-  <a href="https://github.com/Me-SanjayMehra-27"> - GitHub Profile </a>
+  <a href="https://github.com/SanjayMehra-27"> - GitHub Profile </a>
   <br><br>
   
 theme: jekyll-theme-minimal
