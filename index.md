@@ -2,7 +2,7 @@
 
 ---
 
-### A Dynamic Web Project : [Campus-Blogger](https://github.com/SanjayMehra-27/CampusBlogger)
+### A Dynamic Web Project : [CampusBlogger](https://github.com/SanjayMehra-27/CampusBlogger)
 
 
 <br><br>
