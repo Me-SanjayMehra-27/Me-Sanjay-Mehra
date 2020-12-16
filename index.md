@@ -6,9 +6,6 @@
 
 [Project Name -> Campus-Blogger](https://github.com/SanjayMehra-27/CampusBlogger)
 <br><br>
-<img src="images/Screenshot (99).png?raw=true"/>
-<br><br>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/eed4c675a74040768f0f9db3e1e84807" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br><br>
@@ -20,7 +17,7 @@
 <br><br>
 
 ### Tools :
-<p> Eclipse IDE, Mysql (RDBMS), Tomcat Server. </p>
+<p> Eclipse IDE, Mysql (RDBMS), Apache Tomcat Server. </p>
   
 <br><br>
 
