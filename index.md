@@ -4,7 +4,9 @@
 
 ### 1 : [Campus-Blogger](https://github.com/SanjayMehra-27/CampusBlogger)
 
-#### INTRODUCTION : 
+#### INTRODUCTION :
+<br>
+Campus-Blogger is a web application projects which enables blogging for campus/college students.Using Campus-Blogger web application students can easily share blogs post.
 <br><br>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/eed4c675a74040768f0f9db3e1e84807" frameborder="2"  style="position: webkitallowfullscreen mozallowfullscreen allowfullscreen absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -12,21 +14,13 @@
 
 ---
 
-### Technology :
+#### TECHNOLOGY :
+##### 1. BACK-END :
 <p> Java(OOPs), JSP, Servlet, JDBC, Bootstrap 4, Html 5, CSS 3, JavaScript, SQL. </p>
-<br><br>
+##### 2. FRONT-END :
 
-### Tools :
-<p> Eclipse IDE, Mysql (RDBMS), Apache Tomcat Server. </p>
-  
-<br><br>
-
-### Discription :
-<p> In many colleges(Tier 3 Or 4), many students have face some problems in writing blogs and content writing and 
-They couldn't share their skills or knowledge because lack of confidence.So basically  I am trying to solve this 
-problem in my own way.And i want to give them a Platform :-
-Campus-Blogger. <p>
-<br>
+##### TOOLS :
+<p> Eclipse IDE, PostgreSQL (RDBMS), Apache Tomcat Server, Windows   </p>
   
 <h2><b> Certificates : </b></h2>
 
