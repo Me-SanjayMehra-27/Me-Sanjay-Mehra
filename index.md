@@ -68,10 +68,10 @@ This web application project provides user to real-time tracking of covid-19 cas
 ### INTERNSHIP :
 
 #### CodeSpeedy Technology Private Limited (Work From Home)
-##### Full-Stack Developer Intern
-• Learnt use of external APIs in a project.
-• Completed three Dynamic Web projects before deadline.
-• Performed Front-End and Back-End by myself.
+##### Java Developer Intern
+• Learnt use of external APIs in a project.<br>
+• Completed three Dynamic Web projects before deadline.<br>
+• Performed Front-End and Back-End by myself.<br>
 
 ### CERTIFICATES :
 #### 1. [Software Engineering Virtual Experience By JPMorgan Chase & Co.](https://drive.google.com/file/d/163zKNAdN_MBHKr0VGksBX7acrL6wKdhu/view?usp=sharing)
