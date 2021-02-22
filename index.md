@@ -76,4 +76,5 @@ This web application project provides user to real-time tracking of covid-19 cas
 ### CERTIFICATES :
 #### 1. [Software Engineering Virtual Experience By JPMorgan Chase & Co.](https://drive.google.com/file/d/163zKNAdN_MBHKr0VGksBX7acrL6wKdhu/view?usp=sharing)
 #### 2. [The Fundamentals Of Digital Marketing By Google Digital Garage.](https://drive.google.com/file/d/1xhgYYI-ud4ftCxdcM2YetH7bDtKUwnPj/view?usp=sharing)
+#### 3. [The Fundamentals Of Digital Marketing By Google Digital Garage.](https://drive.google.com/file/d/15zOHwNn0ffvnFeYlM3PfHGbzQB3hVo9m/view?usp=sharing)
 <!-- Remove above link if you don't want to attibute -->
